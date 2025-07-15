@@ -1,0 +1,20 @@
+[
+  {
+    "id": "s1",
+    "title": "Cloud Architect Bootcamp by XYZ Academy",
+    "keywords": ["cloud", "aws", "gcp", "devops"],
+    "url": "https://xyz-academy.com/cloud-bootcamp"
+  },
+  {
+    "id": "s2",
+    "title": "Advanced Data Science Career Track",
+    "keywords": ["data science", "machine learning", "pandas", "python"],
+    "url": "https://datasciencepro.io/track"
+  },
+  {
+    "id": "s3",
+    "title": "Frontend Developer Internship Board",
+    "keywords": ["frontend", "javascript", "react", "html"],
+    "url": "https://jobmatchhub.com/frontend-internships"
+  }
+]
